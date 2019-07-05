@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C9F70818-FBEE-4B18-9F04-2991345E99FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hurtownia/ProductForm.cs">
+    <Files>
+      <File FileName="Hurtownia/Program.cs" Line="18" Column="24" />
+      <File FileName="Hurtownia/ProductForm.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hurtownia" expanded="True">
+            <Node name="Hurtownia" expanded="True">
+              <Node name="References" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="ProductForm.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hurtownia PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
